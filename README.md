@@ -8,7 +8,7 @@ Much popular open-source software such as [AntDesign](https://issuehunt.io/repos
 
 Initially, we made IssueHunt for contributors of our project [Boostnote](https://github.com/BoostIO/Boostnote). We’ve got over 12k+ GitHub stars in two years and hundreds of contributors.
 
-To prove the concept, we made a prototype of IssueHunt as a bounty program for the Boostnote community. As a result, many issues resolved in a few days and our community has boosted!
+At first, we made a prototype of IssueHunt as a bounty program for the Boostnote community. As a result, many issues resolved in a few days and our community has boosted!
 
 From our use-case we’ve realized IssueHunt could improve the sustainability of the open-source ecosystem overall.
 
@@ -16,7 +16,7 @@ https://issuehunt.io
 
 ## Mission
 
-We organized IssueHunt Fest with a simple mission in mind: to create a sustainable open source ecosystem.
+We organized IssueHunt with a simple mission in mind: to create a sustainable open source ecosystem.
 
 We think enthusiastic open source developers are not appropriately rewarded no matter how much they contribute to the technology evolution.
 
