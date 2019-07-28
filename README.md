@@ -2,7 +2,7 @@
 
 IssueHunt is an issue-based bounty platform for open source projects.
 
-IssueHunt offers a service that pays freelance developers for contributing to the open-source code. We do it through what is called bounties: financial rewards granted to whoever solves a given problem. The funding for these bounties comes from anyone who is willing to donate to have any given bug fixed or feature added.
+IssueHunt offers a service that pays freelance developers for contributing to open-source code. We do it through what is called bounties: financial rewards granted to whoever solves a given problem. The funding for these bounties comes from anyone who is willing to donate to have any given bug fixed or feature added.
 
 Much popular open-source software such as [AntDesign](https://issuehunt.io/repos/34526884) and [Jekyll](https://issuehunt.io/repos/65252) are using IssueHunt.
 
